@@ -16,4 +16,4 @@ Markdown is a language used for markups, which is using plain style text to crea
 In the words of Yoda
 > Do or do not, there is no try.
 
-https://github.com/catdude2000
+[Go to TOC](https://catdude2000.github.io/reading-notes/)
