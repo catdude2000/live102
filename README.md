@@ -13,7 +13,7 @@ As opposed to a fixed mindset which is a belief that one can't progress beyond t
 
 Markdown is a language used for markups, which is using plain style text to create stylized and formated content.  Using symbols and text, markdown lets one design a web page the way one wants.  It is however required that the correct symbols and text be in exactly the correct places for one's page to look and function properly.  If your not careful, you may have links that lead nowhere or have text overlooked.
 
-In the words of Yoda
+In the words of the great Yoda
 > Do or do not, there is no try.
 
 [Go to TOC](https://catdude2000.github.io/reading-notes/)
